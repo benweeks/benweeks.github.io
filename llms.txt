@@ -103,7 +103,15 @@ Toronto Life, New York Times, SickKids Hospital Foundation, Chevrolet Malibu
 
 - Email: ben@benweeks.ca
 - Phone: +1-416-845-8696
-- LinkedIn: https://www.linkedin.com/in/benweeks
-- Behance: https://www.behance.net/benweeks
-- Instagram: https://www.instagram.com/ben_weeks
-- Vimeo: https://vimeo.com/benweeks
+
+## External Links
+
+- [IMDb](https://www.imdb.com/name/nm5697166/)
+- [Wikidata](https://www.wikidata.org/wiki/Q140234263)
+- [EverybodyWiki](https://en.everybodywiki.com/Ben_Weeks)
+- [llms.txt](https://benweeks.github.io/llms.txt)
+- [LinkedIn](https://www.linkedin.com/in/benweeks)
+- [Behance](https://www.behance.net/benweeks)
+- [Instagram](https://www.instagram.com/ben_weeks)
+- [Vimeo](https://vimeo.com/benweeks)
+
