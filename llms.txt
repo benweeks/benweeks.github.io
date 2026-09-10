@@ -90,7 +90,8 @@ Toronto Life, New York Times, SickKids Hospital Foundation, Chevrolet Malibu
 - [Home](https://benweeks.ca): Studio overview, practice areas, and recent work
 - [Illustration](https://benweeks.ca/illustration): Editorial, advertising, and lettering portfolio
 - [Design](https://benweeks.ca/design): Visual systems, brand, and product design work
-- [Chalk Murals](https://benweeks.ca/chalkmurals): Large-scale live illustration and installation work
+- [Murals & Installations](https://benweeks.ca/chalkmurals): Hand-drawn chalk murals
+  and illustrated installations for restaurants, offices, events and public spaces
 - [Wealthsimple](https://benweeks.ca/wealthsimple): Editorial art direction case study
 - [Canada Goose](https://benweeks.ca/canadagoose): Motion design and lettering case study
 - [RBC Investor Services](https://benweeks.ca/rbc-investor-services): Icon system design
