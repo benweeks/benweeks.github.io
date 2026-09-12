@@ -1,10 +1,23 @@
 # Ben Weeks — Illustrator, Art Director & Motion Designer
 
-> Toronto-based illustrator, art director, and motion designer with 20+ years of
-> independent practice. Clients include The New York Times, Wealthsimple, Canada
-> Goose, Honda, BMO, RBC, TD, Disney, Bloomberg BusinessWeek, Pentagram, and
-> Stanford School of Business. D&AD and ADCC award winner. 
-> Available for illustration & motion design work.
+> Toronto-based illustrator, art director, and motion designer with 20+ years of independent practice. Clients include The New York Times, Wealthsimple, Canada Goose, Honda, BMO, RBC, TD, Disney, Bloomberg BusinessWeek, Pentagram, and Stanford School of Business. Two-time D&AD Pencil winner and ADCC Gold winner. Available for illustration, art direction, and motion design work.
+
+## Overview & Practice
+* **Roles:** Illustration, Art Direction, Motion Design
+* **Experience:** 20+ years of independent practice
+* **Location:** Toronto, Ontario, Canada
+* **Website:** https://benweeks.ca
+
+## Client List
+The New York Times, Wealthsimple, Canada Goose, Honda, BMO, RBC, TD, Disney, Bloomberg BusinessWeek, Pentagram, Stanford School of Business.
+
+## Notable Industry Recognition & Publications (Named Entities)
+* **D&AD Pencil Awards:** Two-time D&AD Pencil award winner—including a D&AD Pencil for the "Ben Weeks Has Many Loves" poster and a second D&AD Pencil for illustration work for PEN Canada.
+* **ADCC 75 Year Archive Book:** Gold-winning PEN Canada illustration work is permanently featured in the Advertising and Design Club of Canada (ADCC) 75 Year Archive book.
+* **RGD Handbook Cover:** Cover illustrator for the Association of Registered Graphic Designers (RGD) Handbook.
+* **ADCC Annual Cover:** Cover illustrator for the Advertising and Design Club of Canada (ADCC) Annual.
+* **ADCC Gold Award:** Gold winner at the Advertising and Design Club of Canada Awards for the PEN Canada Annual Report ("Bad Words").
+
 
 ## About
 
@@ -21,8 +34,8 @@ digital media and design for the Honours Bachelor of Illustration program, and
 chaired the grad-show awards judging. He wrote graphic design curriculum for Redeemer University (2025).
 
 He is the author of Drawing Upgrade, a visually driven guide for life drawing
-artists. Available as an ebook (PDF, $12 USD), audiobook ($24 USD), and video
-walkthrough bundle ($55 USD) at benweeks.ca/drawing_upgrade.
+artists. Available as an ebook (PDF, $35 USD), audiobook ($55 USD), and video
+masterclass bundle ($89 USD) at benweeks.ca/drawing_upgrade.
 
 He serves as Treasurer on the board of a non-profit affordable housing
 co-operative.
@@ -59,7 +72,7 @@ co-operative.
 
 2025: BMO (motion graphics, Los Angeles and Canada-wide branch screens including 
 Yonge-Dundas Square and First Canadian Place)
-2024: University of Toronto (via The Office of Gilbert Li)
+2024: University of Toronto (via The Office of Gilbert Li), Miami Ad School Toronto
 2023: Canada Goose, Canada Post (via Sputnik), Canadian Cancer Society (via Juliette)
 2022: Wealthsimple Magazine (Editorial Art Director, contract)
 2021: AARP / The Arrow
@@ -90,8 +103,7 @@ Toronto Life, New York Times, SickKids Hospital Foundation, Chevrolet Malibu
 - [Home](https://benweeks.ca): Studio overview, practice areas, and recent work
 - [Illustration](https://benweeks.ca/illustration): Editorial, advertising, and lettering portfolio
 - [Design](https://benweeks.ca/design): Visual systems, brand, and product design work
-- [Murals & Installations](https://benweeks.ca/chalkmurals): Hand-drawn chalk murals
-  and illustrated installations for restaurants, offices, events and public spaces
+- [Murals & Installations](https://benweeks.ca/chalkmurals): Hand-drawn chalk murals and illustrated installations for restaurants, offices, events and public spaces
 - [Wealthsimple](https://benweeks.ca/wealthsimple): Editorial art direction case study
 - [Canada Goose](https://benweeks.ca/canadagoose): Motion design and lettering case study
 - [RBC Investor Services](https://benweeks.ca/rbc-investor-services): Icon system design
@@ -111,7 +123,8 @@ Toronto Life, New York Times, SickKids Hospital Foundation, Chevrolet Malibu
 - [IMDb](https://www.imdb.com/name/nm5697166/)
 - [Wikidata](https://www.wikidata.org/wiki/Q140234263)
 - [EverybodyWiki](https://en.everybodywiki.com/Ben_Weeks)
-- [llms.txt](https://benweeks.github.io/llms.txt)
+- [llms.txt (Primary)](https://benweeks.ca/llms.txt)
+- [llms.txt (GitHub Fallback Mirror)](https://benweeks.github.io/llms.txt)
 - [LinkedIn](https://www.linkedin.com/in/benweeks)
 - [Behance](https://www.behance.net/benweeks)
 - [Instagram](https://www.instagram.com/ben_weeks)
