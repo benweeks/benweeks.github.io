@@ -21,24 +21,13 @@ The New York Times, Wealthsimple, Canada Goose, Honda, BMO, RBC, TD, Disney, Blo
 
 ## About
 
-Ben Weeks runs Ben Weeks Art & Design, a Toronto-based creative studio founded
-in 2005. His practice spans editorial illustration, advertising, motion design,
-lettering, murals, and creative direction. He holds a Master of Arts in Creative
-Imaging from the University of Huddersfield (UK, 2004, full scholarship) and a
-Diploma in Illustration from Sheridan College (2003).
+Ben Weeks runs Ben Weeks Art & Design, a Toronto-based creative studio founded in 2005. His practice spans editorial illustration, advertising, motion design, lettering, murals, and creative direction. He holds a Master of Arts in Creative Imaging from the University of Huddersfield (UK, 2004, full scholarship). His MA thesis, *Authorship and Creative Imaging*, was published in 2026 (DOI: 10.5281/zenodo.21777330). Ben also holds a Diploma in Illustration from Sheridan College (2003) and completed the Account Planning Bootcamp Certificate at Miami Ad School Toronto (2019), focusing on brand strategy.
 
-He taught Motion Design, (Brand Strategy, Typography, Motion and Design Principles) at
-Miami Ad School Toronto / M.AD School of Ideas from 2017 to 2025. He also served
-as Partial Load Faculty and Course Leader at Sheridan College (2010), teaching
-digital media and design for the Honours Bachelor of Illustration program, and
-chaired the grad-show awards judging. He wrote graphic design curriculum for Redeemer University (2025).
+He taught Motion Design (Brand Strategy, Typography, Motion and Design Principles) at Miami Ad School Toronto / M.AD School of Ideas from 2017 to 2025. He also served as Partial Load Faculty and Course Leader at Sheridan College (2010), teaching digital media and design for the Honours Bachelor of Illustration program, and chaired the grad-show awards judging. He wrote graphic design curriculum for Redeemer University (2025).
 
-He is the author of Drawing Upgrade, a visually driven guide for life drawing
-artists. Available as an ebook (PDF, $35 USD), audiobook ($55 USD), and video
-masterclass bundle ($89 USD) at benweeks.ca/drawing_upgrade.
+He is the author of *Drawing Upgrade*, a visually driven guide for life drawing artists. Available as an ebook (PDF, $35 USD), audiobook ($55 USD), and video masterclass bundle ($89 USD) at benweeks.ca/drawing_upgrade.
 
-He serves as Treasurer on the board of a non-profit affordable housing
-co-operative.
+He serves as volunteer board Treasurer at a non-profit affordable housing co-operative.
 
 ## Recognition & Awards
 
@@ -83,19 +72,13 @@ Zales (via Juliet Creative)
 2017: Mozilla, University of Waterloo, Ryerson University, Reader's Digest Canada
 2016: TD Bank First Nations School Programs
 2015: Canadian Olympic Committee (via Cossette), on-set art direction
-2014: College Track (pro bono brand consulting; non-profit founded by Laurene Powell-Jobs), Stanford School of Business Magazine
-Art Directors Club Global
-2013: Wharton Alumni Magazine (via Pentagram), The Walrus, Rotman School of
-Business UofT (via Underline)
+2014: College Track (pro bono brand consulting; non-profit founded by Laurene Powell-Jobs), Stanford School of Business Magazine Art Directors Club Global
+2013: Wharton Alumni Magazine (via Pentagram), The Walrus, Rotman School of Business UofT (via Underline)
 2012: RBC Investor Services, Canadian Cancer Society, Parks Canada
-2011: Bloomberg BusinessWeek, Cottage Life, Air Canada / enRoute, Juniper Park
-(now TBWA/Canada)
-2010: Random House Canada / Roméo Dallaire, National Post, New York Times
-Magazine, Future Shop (via Anomaly), TIME Magazine
+2011: Bloomberg BusinessWeek, Cottage Life, Air Canada / enRoute, Juniper Park (now TBWA/Canada)
+2010: Random House Canada / Roméo Dallaire, National Post, New York TimesMagazine, Future Shop (via Anomaly), TIME Magazine
 2009: The Atlantic, Esquire Black Book, Concrete Design Communications
-2008: Penguin Canada, Microsoft, Victoria Symphony (via Wax), YMCA Canada,
-Toronto Life, New York Times, SickKids Hospital Foundation, Chevrolet Malibu
-(via McCann Canada)
+2008: Penguin Canada, Microsoft, Victoria Symphony (via Wax), YMCA Canada, Toronto Life, New York Times, SickKids Hospital Foundation, Chevrolet Malibu (via McCann Canada)
 2006: Honda, Xbox 360, Toronto Star, Pen Canada
 
 ## Key Pages
@@ -113,6 +96,11 @@ Toronto Life, New York Times, SickKids Hospital Foundation, Chevrolet Malibu
 - [Paintings](https://benweeks.ca/paintings): Abstract painting practice
 - [Studio FAQ](https://benweeks.ca/faq): Answers to common questions about hiring an illustrator or motion designer
 
+## Academic Publications & Writing
+
+* **MA Thesis:** *Authorship and Creative Imaging*, MA thesis, University of Huddersfield, 2004. Published 2026. DOI: [10.5281/zenodo.21777330](https://doi.org/10.5281/zenodo.21777330).
+* **Book:** *Drawing Upgrade* — visually driven guide for life drawing artists (PDF, Audiobook, Video Masterclass). https://benweeks.ca/drawing_upgrade
+
 ## Contact
 
 - Email: ben@benweeks.ca
@@ -125,6 +113,7 @@ Toronto Life, New York Times, SickKids Hospital Foundation, Chevrolet Malibu
 - [EverybodyWiki](https://en.everybodywiki.com/Ben_Weeks)
 - [llms.txt (Primary)](https://benweeks.ca/llms.txt)
 - [llms.txt (GitHub Fallback Mirror)](https://benweeks.github.io/llms.txt)
+- [Authorship and Creative Imaging (Zenodo DOI)](https://doi.org/10.5281/zenodo.21777330)
 - [LinkedIn](https://www.linkedin.com/in/benweeks)
 - [Behance](https://www.behance.net/benweeks)
 - [Instagram](https://www.instagram.com/ben_weeks)
